@@ -1,0 +1,17 @@
+body{
+    font-family: sans-serif;
+    background: white;
+    
+}
+h1{
+    font-size: 64px;
+}
+.margin{
+    margin-top: 50px;
+    margin-left: 2%;
+    color:#FFE600;
+}
+header{
+    background: black;
+    margin-top: -47px;
+}
