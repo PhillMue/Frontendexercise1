@@ -4,14 +4,21 @@ body{
     
 }
 h1{
-    font-size: 64px;
+    font-size: 94px;
 }
 .margin{
-    margin-top: 50px;
+    padding-top: 50px;
     margin-left: 2%;
     color:#FFE600;
 }
 header{
     background: black;
     margin-top: -47px;
+    height: 187px;
+}
+header p{
+    color: darkgray;
+    margin-top: -100px;
+    margin-left: 58%;
+    font-size: 25px;
 }
