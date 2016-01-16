@@ -29,5 +29,50 @@ header p{
     background-size: contain;
     height: 600px;
     background-position: center;
-    
+    padding-top: 280px;
 }
+.home p{
+    margin-top: 110px;
+}
+.main{
+    background-color: #fff;
+    background-size: cover;
+    height: 400px;
+    width: 100%;
+    margin-top: -128px;
+}
+.main h2,
+.main p{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.main p{
+    font-size: 23px;
+    line-height: 40px;
+    color: grey;
+    font-weight: 100;
+}
+.button{
+    width: 14%;
+    height: 65px;
+    margin-left: 5%;
+    text-align: center;
+    font-size: 23px;
+    font-weight: 100;
+    border-radius: 50px;
+    border: 2px solid #484848;
+    background-color: #484848;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
