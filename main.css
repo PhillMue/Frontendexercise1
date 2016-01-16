@@ -23,5 +23,11 @@ header p{
     font-size: 25px;
 }
 .home{
-    background-image: url("assets/big_img.jpg")
+    background-image: url("assets/big_img.jpg");
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: contain;
+    height: 600px;
+    background-position: center;
+    
 }
