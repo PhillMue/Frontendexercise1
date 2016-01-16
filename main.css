@@ -22,3 +22,6 @@ header p{
     margin-left: 58%;
     font-size: 25px;
 }
+.home{
+    background-image: url("assets/big_img.jpg")
+}
