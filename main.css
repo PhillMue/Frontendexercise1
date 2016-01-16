@@ -1,6 +1,6 @@
 body{
     font-family: sans-serif;
-    background: white;
+    background: aliceblue;
     
 }
 h1{
@@ -30,9 +30,10 @@ header p{
     height: 600px;
     background-position: center;
     padding-top: 280px;
+    margin-top: -140px;
 }
 .home p{
-    margin-top: 110px;
+    margin-top: -110px;
 }
 .main{
     background-color: #fff;
@@ -63,6 +64,125 @@ header p{
     border: 2px solid #484848;
     background-color: #484848;
 }
+.button p{
+    margin-top: 14px;
+    color: #fff;
+}
+.container{
+    background-color: #fff;
+    background-size: cover;
+    height: 480px;
+    width: 100%;
+    margin-top: 30px;
+}
+.column{
+    margin-top: 50px;
+    margin-bottom: 22px;
+    width: 30%;
+    margin-left: 14px;
+    margin-right: 14px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    line-height: 40px;
+    color: grey;
+    font-weight: 100;
+    font-size: 23px;
+}
+.column img{
+    width: 30%;
+    height: auto;
+}
+.container1{
+    background-color: #fff;
+    background-size: cover;
+    height: 580px;
+    width:100%;
+    margin-top: 30px;
+}
+.column1{
+    margin-top: 50px;
+    margin-top: 22px;
+    width: 45%;
+    margin-left: 14px;
+    margin-right: 14px;
+    display: inline-block;
+    vertical-align: top;
+    line-height: 40px;
+    color: grey;
+    font-weight: 100;
+    font-size: 23px;
+}
+.column1 img{
+    width: 100%;
+    height: auto;
+}
+.container2{
+   background-color: #49e20e;
+    background-size: cover;
+    height: 180px;
+    width: 100%;
+    margin-top: 30px;
+}
+.column2 h3{
+    margin-top: 30px;
+    color: #fff;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 100;
+}
+.container3{
+    background-color: #fff;
+    background-size: cover;
+    height: 280px;
+    width: 100%;
+    margin-top: 30px;
+}
+.column3{
+    margin-top: 50px;
+    margin-bottom: 22px;
+    margin-left: 14px;
+    margin-right: 14px;
+    line-height: 40px;
+    color: grey;
+    font-weight: 100;
+    font-size: 23px;
+}
+.container4{
+    background-color: #484848;
+    background-size: cover;
+    height: 180px;
+    width: 100%;
+    margin-top: 30px;
+}
+.column4 h3{
+    margin-top: 30px;
+    color: #e6c032;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 400;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
